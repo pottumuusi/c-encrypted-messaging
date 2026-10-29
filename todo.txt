@@ -1,0 +1,2 @@
+Continue verifying release that was downloaded to:
+/home/tank/my/workbench/install_openssl
